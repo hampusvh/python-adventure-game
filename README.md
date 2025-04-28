@@ -1,4 +1,4 @@
-# Text-Based Adventure Game – Programming 1 Project
+# Text-Based Adventure Game – Programming 1 School Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
