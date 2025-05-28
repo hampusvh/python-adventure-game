@@ -1,8 +1,8 @@
-# Text-Based Adventure Game – Programming 1 School Project
+# 🗺️ Text-Based Adventure Game
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
-## About the Project
+## 📖 About the Project
 
 This project was created as part of the course Programming 1, where I developed a simple text-based adventure game in Python.
 
@@ -12,15 +12,19 @@ Throughout the game, players may encounter different creatures and choose whethe
 
 The adventure does not have a fixed ending and offers a limited number of choices. In the end, the game's loop returns to different functions, allowing the player to replay parts of the game multiple times.
 
-## How to Run the Game
+## ▶️ How to Run the Game
 
 - Download or clone the repository.
 
 - Open the project in your code editor or terminal.
 
-- Run the main Python file (main.py) to start the game.
+- Run the main file:
 
-## Possible Future Improvements
+     ```bash
+   python main.py
+
+
+## ⚙️ Future Improvements
 
 - Add multiple endings and more story paths
 
