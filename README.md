@@ -2,32 +2,33 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
-## 📖 About the Project
+## About the Project
 
-This project was created as part of the course Programming 1, where I developed a simple text-based adventure game in Python.
+This repository contains a text-based adventure game developed in **Python 3** as part of the *Programming 1* course.  
 
-The game starts with a main menu where the player can choose to begin their adventure. As the story unfolds, the player faces various choices that influence the outcome and lead to different scenarios.
+The game features a main menu, branching story paths, and encounters with creatures where player choices determine the outcome. Certain decisions can end the game, while others trigger a dice-based mechanic that introduces random chance.  
 
-Throughout the game, players may encounter different creatures and choose whether to fight them. In certain situations, making the wrong decision can result in the player's death and the end of the game. There is also a dice mechanic where random chance determines whether the player can proceed or not.
+The adventure is intentionally replayable, offering multiple loops and scenarios rather than a single fixed ending.
 
-The adventure does not have a fixed ending and offers a limited number of choices. In the end, the game's loop returns to different functions, allowing the player to replay parts of the game multiple times.
 
-## ▶️ How to Run the Game
+## How to Run
 
-- Download or clone the repository.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hampusvh/python-adventure-game.git
+   ```
 
-- Open the project in your code editor or terminal.
-
-- Run the main file:
-
-     ```bash
+2. Navigate to the project folder:
+   ```bash
+   cd python-adventure-game
+   ```
+3. Run the game:
+   ```bash
    python main.py
+   ```
+## Roadmap
 
+- [ ] Implement multiple endings and extended story paths  
+- [ ] Introduce additional creature types and randomized events  
+- [ ] Enhance branching logic to expand the consequences of player choices  
 
-## ⚙️ Future Improvements
-
-- Add multiple endings and more story paths
-
-- Introduce more types of creatures and events
-
-- Expand the consequences of player choices
